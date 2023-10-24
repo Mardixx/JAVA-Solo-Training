@@ -4,7 +4,11 @@ I am currently training at BeCode and I decided to start Java because I will pro
 
 ## About Me
 
-Like said above, I am currently at a formation at BeCode.
+I am Kimi Lefort, I am currently at a formation at BeCode.
+
+#### <a href="https://github.com/Mardixx">GitHub</a>
+#### <a href="https://www.linkedin.com/in/kimi-lefort-478a15278/">LinkedIn</a>
+#### Email: kimi.lefort.pro@gmail.com
 
 ## Language(s)
 
