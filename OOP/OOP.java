@@ -5,10 +5,10 @@ public class OOP {
     }
 
     public static void main(String[] args) {
-        OOP object = new OOP(6);
-        OOP object2 = new OOP(2);
-        System.out.println(object.x + object.x);
-        System.out.println(object2.x);
+        Person object = new Person();
+        object.name = "Kimi"; // Works with Public not private
+        object.setName("Kimi");
+        System.out.println(object.name);
     } 
 }
 
